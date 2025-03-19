@@ -90,3 +90,4 @@ webbench -c 9000 -t 30 http://ip:port/
 ```
 
 ![image-20250319103251987](https://github.com/jkdndn/WebServer/blob/main/imgs/pressure.png)
+高负载环境下支持9k+的并发连接，峰值QPS达到14000+![image](https://github.com/user-attachments/assets/fe34ae9d-849e-413f-b242-d517122e0351)
