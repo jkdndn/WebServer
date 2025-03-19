@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httprequest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:http\\httprequest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpconn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:http\\httpconn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\log\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:log\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\timer\\heaptimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:timer\\heaptimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\timer\\heaptimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:timer\\heaptimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpresponse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:http\\httpresponse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\server\\webserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\webserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpconn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:http\\httpconn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\buffer\\buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:buffer\\buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\buffer\\buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:buffer\\buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\server\\epoller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\epoller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\pool\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pool\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "buffer.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\buffer\\buffer.cpp",
+              "RelativeDocumentMoniker": "buffer\\buffer.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\buffer\\buffer.cpp",
+              "RelativeToolTip": "buffer\\buffer.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAF0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T03:40:11.398Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\log\\log.cpp",
+              "RelativeDocumentMoniker": "log\\log.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\log\\log.cpp",
+              "RelativeToolTip": "log\\log.cpp",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswIIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T07:44:24.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "heaptimer.h",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\timer\\heaptimer.h",
+              "RelativeDocumentMoniker": "timer\\heaptimer.h",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\timer\\heaptimer.h",
+              "RelativeToolTip": "timer\\heaptimer.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T07:16:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "heaptimer.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\timer\\heaptimer.cpp",
+              "RelativeDocumentMoniker": "timer\\heaptimer.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\timer\\heaptimer.cpp",
+              "RelativeToolTip": "timer\\heaptimer.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T07:15:50.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "buffer.h",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\buffer\\buffer.h",
+              "RelativeDocumentMoniker": "buffer\\buffer.h",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\buffer\\buffer.h",
+              "RelativeToolTip": "buffer\\buffer.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T05:56:35.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "httpconn.h",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpconn.h",
+              "RelativeDocumentMoniker": "http\\httpconn.h",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpconn.h",
+              "RelativeToolTip": "http\\httpconn.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvzcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T06:03:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "httpconn.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpconn.cpp",
+              "RelativeDocumentMoniker": "http\\httpconn.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpconn.cpp",
+              "RelativeToolTip": "http\\httpconn.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAswF4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T05:54:51.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "httprequest.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httprequest.cpp",
+              "RelativeDocumentMoniker": "http\\httprequest.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httprequest.cpp",
+              "RelativeToolTip": "http\\httprequest.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T03:39:02.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "httpresponse.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpresponse.cpp",
+              "RelativeDocumentMoniker": "http\\httpresponse.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\http\\httpresponse.cpp",
+              "RelativeToolTip": "http\\httpresponse.cpp",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAswJ4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T05:59:31.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "webserver.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\server\\webserver.cpp",
+              "RelativeDocumentMoniker": "server\\webserver.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\server\\webserver.cpp",
+              "RelativeToolTip": "server\\webserver.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAALgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T01:07:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "epoller.cpp",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\server\\epoller.cpp",
+              "RelativeDocumentMoniker": "server\\epoller.cpp",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\server\\epoller.cpp",
+              "RelativeToolTip": "server\\epoller.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T01:30:06.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "threadpool.h",
+              "DocumentMoniker": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\pool\\threadpool.h",
+              "RelativeDocumentMoniker": "pool\\threadpool.h",
+              "ToolTip": "D:\\\u6821\u62DB\\000_c\u002B\u002B\u9879\u76EE\\TinyWebServer-master\\TinyWebServer-master\\code\\pool\\threadpool.h",
+              "RelativeToolTip": "pool\\threadpool.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T01:49:08.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

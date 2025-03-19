@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\buffer",
+    "\\http",
+    "\\log",
+    "\\pool",
+    "\\server",
+    "\\timer"
+  ],
+  "SelectedNode": "\\log\\log.cpp",
+  "PreviewInSolutionExplorer": false
+}
