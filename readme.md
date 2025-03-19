@@ -89,4 +89,4 @@ webbench -c 9000 -t 30 http://ip:port/
 	-t 表示时间
 ```
 
-![image-20250319103251987](C:\Users\32833\Desktop\实习\简历项目\WebServer\image-20250319103251987.png)
+![image-20250319103251987](https://github.com/jkdndn/WebServer/blob/main/imgs/pressure.png)
